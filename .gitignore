@@ -1,0 +1,13 @@
+# .NET build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+
+# Solution files
+*.slnx
