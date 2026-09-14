@@ -155,7 +155,7 @@
       Console.WriteLine("negative numbers:");
       Filter(numbers2, x => x < 0);
 
-      Console.WriteLine("with extention method:");
+      Console.WriteLine("with extension method:");
       numbers2.Filter(x => x > 0);
       #endregion
     }
